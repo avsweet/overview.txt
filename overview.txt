@@ -1,0 +1,41 @@
+Name of team members: Avery Sweet ,Leoder Joseph 
+
+Interesting class relationships: 
+
+	The two major relationship amongst the classes when completing Programming Assignment 1 consist of the relationship between 
+the Scale class and the negate class. As the scale class consist of the components x,y and z within the vector being 
+multiplied by a common factor of f. By multiplying by a common factor of f, we are able to distinguish/create a scale and
+when creating the negate class, the scalle must become -1 in which we again would use the common factor of f but in the negative manner 
+creating the negate function.
+	The second primary relationship I was able to distinguish when completing the assignment was tthe equalTo class and the Magnitude class. 
+When we think of the concept of magnitude, we often think of the size or level of the objects,in which I thought was the most appropriate way to
+distiguish the EqualTo class.
+
+Design Approach:
+
+	As for the design approach for Programming 1 Assignment, I first wanted to establish a constructor representing the x,y,and z vectors as well as 
+a copy of that constructor which is represented by Vector3D v constructor. The v constructor was establish for the add, subtract, Dot and equalTo methods.
+The v constructor would allow for comparisons to be made when carrying out basic commands such as add and subtract. Another design approach was to establish 
+the variables x,y,and z before working towards the methods ,so the computer is also able to follow along wihtout any errors.
+
+
+Things that gave trouble:
+	
+	When completing the Programming Assignment 1, the most rigerous/troubling step in my opinion would consist of the JUnit as I am very familiar with java
+through Programming 2 ,but have never run JUnit on any form of code in the past.The new feature was definitely a learning curve as I was teaching myself how to
+code appropriately for this feature. 
+
+
+Specific contributions by each team member: 
+Avery Sweet: 
+-Created all of Vector3D.java, Vector3DTest.java and overview text file
+-Did research on JUnit and how to test
+-Figured out how documents should be kept to turn in 
+
+Leoder Joseph:
+-Helped with some lines of code 
+
+Time (in minutes) spent by each team member for this assignment: 
+
+Avery Sweet: 420 minutes 
+Leoder Joseph: 10 minutes
